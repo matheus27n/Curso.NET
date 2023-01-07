@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\bin\Debug\net7.0\DasafioEstacionamento.exe
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\bin\Debug\net7.0\DasafioEstacionamento.deps.json
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\bin\Debug\net7.0\DasafioEstacionamento.runtimeconfig.json
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\bin\Debug\net7.0\DasafioEstacionamento.dll
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\bin\Debug\net7.0\DasafioEstacionamento.pdb
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.dll
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\refint\DasafioEstacionamento.dll
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.pdb
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\DasafioEstacionamento.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Curso.NET\DasafioEstacionamento\obj\Debug\net7.0\ref\DasafioEstacionamento.dll
