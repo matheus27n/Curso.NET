@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\bin\Debug\net7.0\SistemadeHospedagemdeumHotel.exe
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\bin\Debug\net7.0\SistemadeHospedagemdeumHotel.deps.json
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\bin\Debug\net7.0\SistemadeHospedagemdeumHotel.runtimeconfig.json
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\bin\Debug\net7.0\SistemadeHospedagemdeumHotel.dll
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\bin\Debug\net7.0\SistemadeHospedagemdeumHotel.pdb
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.dll
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\refint\SistemadeHospedagemdeumHotel.dll
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.pdb
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\SistemadeHospedagemdeumHotel.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Curso.NET\Desafios\Desafio de Projeto\SistemadeHospedagemdeumHotel\obj\Debug\net7.0\ref\SistemadeHospedagemdeumHotel.dll
